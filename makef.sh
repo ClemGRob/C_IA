@@ -1,0 +1,1 @@
+gcc -Wall linear_regression.c logistic_regression.c model_dealer.c main.c -o main.exe -lm && ./main.exe
